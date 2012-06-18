@@ -1,9 +1,8 @@
-ktimer (4:4.8.4-0r0) UNRELEASED; urgency=low
+ktimer (4:4.8.4-1) unstable; urgency=low
 
   * Team upload. Upload to unstable.
 
   [ Eshat Cakar ]
   * Initial packaging, split from kdeutils.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Jun 2012 13:02:12 +0200
-
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Mon, 18 Jun 2012 17:57:27 -0300
