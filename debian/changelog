@@ -1,5 +1,8 @@
 ktimer (4:4.8.4-0r0) UNRELEASED; urgency=low
 
+  * Team upload. Upload to unstable.
+
+  [ Eshat Cakar ]
   * Initial packaging, split from kdeutils.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Jun 2012 13:02:12 +0200
