@@ -8,10 +8,12 @@ Uploaders: Fathi Boudra <fabo@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.12),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11)
-Standards-Version: 3.9.4
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.12),
+               kdelibs5-dev (>= 4:4.11),
+               pkg-kde-tools (>= 0.12)
+Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/ktimer.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/ktimer.git
@@ -19,7 +21,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/ktimer.git
 Package: ktimer
 Section: utils
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: countdown timer
  KTimer is a countdown timer for running commands after a delay.
  The countdown can be paused or set to loop continuously.
