@@ -1,7 +1,7 @@
 ktimer (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:32:19 -0800
@@ -360,7 +360,7 @@ ktimer (4:4.8.2-0ubuntu1) precise; urgency=low
 
 ktimer (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:52:18 +0100
 
@@ -387,4 +387,3 @@ ktimer (4:4.7.90-0ubuntu1) precise; urgency=low
   * Initial package
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Dec 2011 17:00:47 +0000
-
