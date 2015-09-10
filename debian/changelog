@@ -1,9 +1,9 @@
-ktimer (4:15.08.0-1~) UNRELEASED; urgency=medium
+ktimer (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 09:41:44 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 14:47:08 +0200
 
 ktimer (4:15.08.0-0ubuntu1) wily; urgency=medium
 
