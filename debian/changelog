@@ -5,6 +5,36 @@ ktimer (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 09:41:44 +0200
 
+ktimer (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 17:40:06 +0100
+
+ktimer (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 11:16:03 +0100
+
+ktimer (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * New upstream release
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:26:20 +0200
+
+ktimer (4:14.12.3-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:29:07 -0700
+
 ktimer (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
@@ -17,6 +47,7 @@ ktimer (4:14.12.2-0ubuntu1) vivid; urgency=medium
   * New upstream release
   * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
+  * Add back the kdelibs parent version depend. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:32:19 -0800
 
