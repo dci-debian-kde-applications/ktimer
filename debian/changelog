@@ -1,9 +1,9 @@
-ktimer (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+ktimer (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * New upstream release
   * Merged with Debian 
 
- -- Clive Johnston <clivejo@aol.com>  Tue, 09 Feb 2016 16:18:17 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:15:54 +0100
 
 ktimer (4:15.12.0-1) experimental; urgency=medium
 
