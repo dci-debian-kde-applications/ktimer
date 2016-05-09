@@ -1,11 +1,18 @@
-ktimer (4:16.04.0-1~1.gbp613990) UNRELEASED; urgency=medium
+ktimer (4:16.04.0-1~2.gbpd624e4) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @d624e4f09b7c3a5e1ef2981e938fbeef8143a8d6 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @613990a414a059ca3f24501795432882b77fb701 **
 
   * Bump Standards-Version to 3.9.8
   * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 00:27:12 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:27:18 +0200
 
 ktimer (4:15.12.0-1) experimental; urgency=medium
 
