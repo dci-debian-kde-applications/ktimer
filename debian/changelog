@@ -1,10 +1,8 @@
-ktimer (4:16.08.0-1~1.gbp1782b3) UNRELEASED; urgency=medium
+ktimer (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @1782b39f175ac7d0496e2ed3ae0e2becca8f30e4 **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:27:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 18 Oct 2016 09:44:57 +0200
 
 ktimer (4:16.04.0-1) unstable; urgency=medium
 
