@@ -7,20 +7,20 @@ Uploaders: Fathi Boudra <fabo@debian.org>,
            Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.10.0~),
-               kdoctools-dev,
-               kio-dev,
                libkf5dbusaddons-dev,
+               libkf5doctools-dev,
                libkf5i18n-dev,
                libkf5iconthemes-dev,
+               libkf5kio-dev,
                libkf5notifications-dev,
                libkf5widgetsaddons-dev,
                libkf5xmlgui-dev,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.4)
+               qtbase5-dev (>= 5.4),
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/ktimer.git
